@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true%theme=tokyonight&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true&theme=tokyonight&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauliogrc&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauliogrc&hide_progress=true&theme=tokyonight)
 
 <!--
 **brauliogrc/brauliogrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
