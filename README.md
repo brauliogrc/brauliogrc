@@ -4,6 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauliogrc&hide_progress=true&theme=tokyonight)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brauliogrc&theme=tokyonight)](https://git.io/streak-stats)
+
 <!--
 **brauliogrc/brauliogrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
