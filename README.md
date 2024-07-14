@@ -1,13 +1,31 @@
 # Hi there
 
-## I am a developer with knowledge of different technologies, mainly C# and Angular.
-*Focused on obtaining new knowledge and skills that contribute to improving my professional development*
+**I am a developer with knowledge of different technologies, mainly C# and Angular.
+Focused on obtaining new knowledge and skills that contribute to improving my professional development**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true&theme=tokyonight&rank_icon=github)
+<div class="technology-stack">
+  <h3 align="left">
+    Technology stack
+  </h3>
+  <div class="icons">
+    <p align="center">
+      <img src="" alt="" width="40" height="40"/>
+    </p>
+  </div>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauliogrc&hide_progress=true&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brauliogrc&theme=tokyonight)](https://git.io/streak-stats)
+<div class="github-stats">
+  <h3 align="left">
+    Github Stats
+  </h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true&theme=tokyonight&rank_icon=github"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliogrc&hide_progress=true&theme=tokyonight"/>
+  </p>
+  <p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=brauliogrc&theme=tokyonight"/>
+  </p>
+</div>
 
 <!--
 **brauliogrc/brauliogrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
