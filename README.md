@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there
+
+## I am a developer with knowledge of different technologies, mainly C# and Angular.
+*Focused on obtaining new knowledge and skills that contribute to improving my professional development*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true&theme=tokyonight&rank_icon=github)
 
