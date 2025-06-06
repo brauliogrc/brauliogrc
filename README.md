@@ -35,13 +35,13 @@ Focused on obtaining new knowledge and skills that contribute to improving my pr
   </h1> -->
   <br>
   <div>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliogrc&hide_progress=true&theme=tokyonight"/>
-    </p>
 <!--     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true&theme=tokyonight&rank_icon=github"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=brauliogrc&theme=tokyonight"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliogrc&hide_progress=true&theme=tokyonight"/>
     </p> -->
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true&theme=tokyonight&rank_icon=github"/>
+<!--       <img src="https://github-readme-streak-stats.herokuapp.com?user=brauliogrc&theme=tokyonight"/> -->
+    </p>
     <p align="center">
     </p>
   </div>
