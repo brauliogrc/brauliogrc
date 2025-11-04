@@ -22,8 +22,8 @@ Focused on obtaining new knowledge and skills that contribute to improving my pr
       <!--<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40"/>-->
       <!--<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" width="40" height="40"/>-->
       <!--<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>-->
-      <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="AndroidStudio" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+      <!--<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="AndroidStudio" width="40" height="40"/>-->
+      <!--<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>-->
       <!--<img src="" alt="" width="40" height="40"/>-->
     </p>
   </div>
