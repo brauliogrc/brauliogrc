@@ -1,17 +1,19 @@
+<!-- <img src="./img/temple.jpg"> -->
+
 <div align="center">
     <h1>Learn, again and again and again🌱</h1>
 </div>
 
-<h4>I am a developer with knowledge of different technologies, mainly C# and Angular.
-Focused on obtaining new knowledge and skills that contribute to improving my professional development.</h4>
+<!-- <h4>I am a developer with knowledge of different technologies, mainly C# and Angular.
+Focused on obtaining new knowledge and skills that contribute to improving my professional development.</h4> -->
 
-<div class="technology-stack">
+<!-- <div class="technology-stack"> -->
 <!--   <h1 align="left">
     Technology stack ⚒️
   </h1> -->
   <br>
-  <div class="icons">
-    <p align="center">
+  <!-- <div class="icons"> -->
+    <!-- <p align="center"> -->
       <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="Typescript" width="40" height="40"/>
@@ -27,16 +29,16 @@ Focused on obtaining new knowledge and skills that contribute to improving my pr
       <!--<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="AndroidStudio" width="40" height="40"/>-->
       <!--<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>-->
       <!--<img src="" alt="" width="40" height="40"/>-->
-    </p>
-  </div>
-</div>
+    <!-- </p> -->
+  <!-- </div> -->
+<!-- </div> -->
 
-<div class="github-stats">
+<!-- <div class="github-stats"> -->
 <!--   <h1 align="left">
     Github Stats 👓
   </h1> -->
   <br>
-  <div>
+  <!-- <div> -->
 <!--     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliogrc&hide_progress=true&theme=tokyonight"/>
     </p> -->
@@ -44,8 +46,8 @@ Focused on obtaining new knowledge and skills that contribute to improving my pr
       <!-- <img src="https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true&theme=tokyonight&rank_icon=github"/> -->
 <!--       <img src="https://github-readme-streak-stats.herokuapp.com?user=brauliogrc&theme=tokyonight"/> -->
     <!-- </p> -->
-  </div>
-</div>
+  <!-- </div>
+</div> -->
 
 <!--
 **brauliogrc/brauliogrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
