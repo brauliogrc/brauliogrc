@@ -1,4 +1,6 @@
-<h1>Hello there✋🏻</h1>
+<div align="center">
+    <h1>Learn, again and again and again🌱</h1>
+</div>
 
 <h4>I am a developer with knowledge of different technologies, mainly C# and Angular.
 Focused on obtaining new knowledge and skills that contribute to improving my professional development.</h4>
@@ -10,14 +12,14 @@ Focused on obtaining new knowledge and skills that contribute to improving my pr
   <br>
   <div class="icons">
     <p align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
+      <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="Typescript" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="DotNetCore" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="DotNetCore" width="40" height="40"/> -->
       <!--<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" width="40" height="40"/>-->
-      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C#" width="40" height="40"/>
+      <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C#" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> -->
       <!--<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40"/>-->
       <!--<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40"/>-->
       <!--<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" width="40" height="40"/>-->
@@ -38,12 +40,10 @@ Focused on obtaining new knowledge and skills that contribute to improving my pr
 <!--     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliogrc&hide_progress=true&theme=tokyonight"/>
     </p> -->
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true&theme=tokyonight&rank_icon=github"/>
+    <!-- <p align="center"> -->
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true&theme=tokyonight&rank_icon=github"/> -->
 <!--       <img src="https://github-readme-streak-stats.herokuapp.com?user=brauliogrc&theme=tokyonight"/> -->
-    </p>
-    <p align="center">
-    </p>
+    <!-- </p> -->
   </div>
 </div>
 
@@ -61,3 +61,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+    <h1>
+        ⚒️My stack
+    </h1>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,dotnet,ts,js,angular,docker,postgres,mysql,git,github,vscode,visualstudio,neovim,notion&theme=dark&perline=8" />
+  </a>
+</div>
