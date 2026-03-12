@@ -1,55 +1,148 @@
-<!-- <img src="./img/temple.jpg"> -->
-
 <div align="center">
     <h1>Learn, again and again and again🌱</h1>
 </div>
 
-<!-- <h4>I am a developer with knowledge of different technologies, mainly C# and Angular.
-Focused on obtaining new knowledge and skills that contribute to improving my professional development.</h4> -->
+<picture>
+  <source
+    srcset="./img/CorneBannerFinal.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="./img/CorneBannerFinalLight.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="./img/CorneBannerFinalLight.png" alt="GitHub Stats"/>
+</picture>
 
-<!-- <div class="technology-stack"> -->
-<!--   <h1 align="left">
-    Technology stack ⚒️
-  </h1> -->
+<hr>
+
+<br>
+
+<div align="center">
+  <!-- <h3>📧 Contact</h3> -->
+  <div>
+    <a href="www.linkedin.com/in/braulio-garcía-121633206">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="mailto:brauliogrc95@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+</div>
+
+<br>
+
+<hr>
+
+<br>
+
+<div align="center">
+  <span>
+    <strong style="font-size: 17px;">👋 Fullstack Developer | AI, ML & DL Enthusiast</strong>
+    <br>
+    <span>Passionate about algorithms, scalable systems, and intelligent software</span>
+  </span>
   <br>
-  <!-- <div class="icons"> -->
-    <!-- <p align="center"> -->
-      <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="Typescript" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="DotNetCore" width="40" height="40"/> -->
-      <!--<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" width="40" height="40"/>-->
-      <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C#" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> -->
-      <!--<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40"/>-->
-      <!--<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40"/>-->
-      <!--<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" width="40" height="40"/>-->
-      <!--<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>-->
-      <!--<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="AndroidStudio" width="40" height="40"/>-->
-      <!--<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>-->
-      <!--<img src="" alt="" width="40" height="40"/>-->
-    <!-- </p> -->
-  <!-- </div> -->
-<!-- </div> -->
-
-<!-- <div class="github-stats"> -->
-<!--   <h1 align="left">
-    Github Stats 👓
-  </h1> -->
   <br>
-  <!-- <div> -->
-<!--     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliogrc&hide_progress=true&theme=tokyonight"/>
-    </p> -->
-    <!-- <p align="center"> -->
-      <!-- <img src="https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true&theme=tokyonight&rank_icon=github"/> -->
-<!--       <img src="https://github-readme-streak-stats.herokuapp.com?user=brauliogrc&theme=tokyonight"/> -->
-    <!-- </p> -->
-  <!-- </div>
-</div> -->
+  <p>
+    I'm a developer passionate about solving complex problems through algorithms and software design.<br>
+    I work mainly in the full-stack ecosystem, building scalable applications with modern technologies. My main interest is Artificial Intelligence and Deep Learning, where I enjoy exploring neural networks, optimization techniques, and intelligent systems.
+  </p>
+</div>
 
-<!--
+<br>
+
+<hr>
+
+<div align="center">
+  <h3>🚀 Languages</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,ts,js&theme=dark&perline=8" alt="My technology stack"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>⚡ Frameworks</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,angular,react&theme=dark&perline=8" alt="My technology stack"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>⚒️ Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,postgres,mysql,neovim&theme=dark&perline=8" alt="My technology stack"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>👨‍💻 Currently working with</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,git,github&theme=dark" alt="Currently used technologies"/>
+  </a>
+</div>
+
+<br>
+
+<hr>
+
+<div align="center">
+  <h3>💻 What I'm doing</h3>
+    <article><strong>Fullstack:</strong> Building scalable and efficient applications</article>
+    <article><strong>AI/ML/DL:</strong> Experimenting with neural networks and algorithm optimization</article>
+    <article><strong>Algorithmics:</strong> Solving logical challenges and improving code efficiency</article>
+</div>
+
+<br>
+
+<hr>
+
+<br>
+
+<div align="center">
+  <h3>📊 My stats</h3>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true&theme=aura"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true&theme=aura" alt="GitHub Stats"/>
+    </picture>
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliogrc&theme=aura&layout=compact"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliogrc&layout=compact"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliogrc&theme=aura&layout=compact" alt="Most used languages"/>
+    </picture>
+  </a>
+</div>
+
+<br>
+<br>
+<br>
+
+<img src="https://api.visitorbadge.io/api/VisitorHit?user=brauliogrc&repo=github-visitors-badge&countColor=%237B1E7A" alt="visitor badge"/>
+
+<!-- 
 **brauliogrc/brauliogrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -61,14 +154,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
+
+
+<img alt="Static Badge" src="https://img.shields.io/badge/jjjhjhjjh">
+
+https://shields.io/badges
+https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md
+https://gist.github.com/rxaviers/7360908
 -->
 
-<div align="center">
-    <h1>
-        ⚒️My stack
-    </h1>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs,dotnet,ts,js,angular,docker,postgres,mysql,git,github,vscode,visualstudio,neovim,notion&theme=dark&perline=8" />
-  </a>
-</div>
+
