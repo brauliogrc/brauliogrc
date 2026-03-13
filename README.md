@@ -21,7 +21,7 @@
 <div align="center">
   <!-- <h3>📧 Contact</h3> -->
   <div>
-    <a href="www.linkedin.com/in/braulio-garcía-121633206">
+    <a href="https://www.linkedin.com/in/braulio-garcía-121633206">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
     <a href="mailto:brauliogrc95@gmail.com">
@@ -115,7 +115,7 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true&theme=buefy"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brauliogrc&show_icons=true&theme=aura" alt="GitHub Stats"/>
@@ -128,7 +128,7 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliogrc&layout=compact"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliogrc&theme=buefy&layout=compact"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliogrc&theme=aura&layout=compact" alt="Most used languages"/>
