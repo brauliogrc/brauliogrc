@@ -21,8 +21,8 @@
 <div align="center">
   <!-- <h3>📧 Contact</h3> -->
   <div>
-    <a href="https://www.linkedin.com/in/braulio-garcía-121633206">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <a href="https://www.linkedin.com/in/braulio-garcía-121633206" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:brauliogrc95@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
