@@ -2,17 +2,19 @@
     <h1>Learn, again and again and again🌱</h1>
 </div>
 
-<picture>
-  <source
-    srcset="./img/CorneBannerFinal.png"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="./img/CorneBannerFinalLight.png"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="./img/CorneBannerFinalLight.png" alt="GitHub Stats"/>
-</picture>
+<div align="center">
+  <picture>
+    <source
+      srcset="./img/CorneBannerFinal.png"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="./img/CorneBannerFinalLight.png"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="center" src="./img/CorneBannerFinalLight.png" alt="GitHub Stats"/>
+  </picture>
+</div>
 
 <hr>
 
@@ -140,7 +142,19 @@
 <br>
 <br>
 
-<img src="https://api.visitorbadge.io/api/VisitorHit?user=brauliogrc&repo=github-visitors-badge&countColor=%237B1E7A" alt="visitor badge"/>
+<div>
+  <picture>
+    <source
+      srcset="https://api.visitorbadge.io/api/VisitorHit?user=brauliogrc&repo=github-visitors-badge&labelColor=29263c&countColor=a277ff"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://api.visitorbadge.io/api/VisitorHit?user=brauliogrc&repo=github-visitors-badge&labelColor=E4DDF7&countColor=7957D5"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://api.visitorbadge.io/api/VisitorHit?user=brauliogrc&repo=github-visitors-badge&labelColor=29263c&countColor=a277ff" alt="visitor badge"/>
+  </picture>
+</div>
 
 <!-- 
 **brauliogrc/brauliogrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
